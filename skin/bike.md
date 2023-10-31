@@ -1,11 +1,5 @@
 # Bike Skin WIKI
 
-[TOC]
-
-## Find your Steam ID
-
-You can see your steam ID with [this online tool](https://steamidfinder.com/ "steamidfinder.com") 
-
 ## What do you need
 
 Firstly you can download templatetes from [TrackDayR Drive Folder](https://drive.google.com/drive/folders/1XA9W1ntJyhfRpx_u-pUI3M2YlRd-DLRH?usp=sharing "TrackDayR Drive Folder")
